@@ -1,0 +1,76 @@
+{
+  "months": [
+    {
+      "m": "Ago-25",
+      "revenue": 14451,
+      "net": 2585,
+      "be": 9000
+    },
+    {
+      "m": "Set-25",
+      "revenue": 14667,
+      "net": 4818,
+      "be": 9000
+    },
+    {
+      "m": "Ott-25",
+      "revenue": 14673,
+      "net": 4369,
+      "be": 9000
+    },
+    {
+      "m": "Nov-25",
+      "revenue": 14610,
+      "net": 6454,
+      "be": 9000
+    },
+    {
+      "m": "Dic-25",
+      "revenue": 14570,
+      "net": 5313,
+      "be": 9000
+    },
+    {
+      "m": "Gen-26",
+      "revenue": 15326,
+      "net": 5385,
+      "be": 9000
+    },
+    {
+      "m": "Feb-26",
+      "revenue": 14150,
+      "net": 4749,
+      "be": 9000
+    },
+    {
+      "m": "Mar-26",
+      "revenue": 13869,
+      "net": 4081,
+      "be": 9000
+    },
+    {
+      "m": "Apr-26",
+      "revenue": 14214,
+      "net": 5238,
+      "be": 9000
+    },
+    {
+      "m": "Mag-26",
+      "revenue": 4515,
+      "net": -601,
+      "be": 9000
+    }
+  ],
+  "kpi": {
+    "revenue": 135044,
+    "net": 40390,
+    "dailyNet": 133,
+    "lossDays": 9,
+    "best": {
+      "month": "Nov-25",
+      "net": 6454,
+      "pctAboveAvg": 0.41
+    },
+    "projection": 2600
+  }
+}

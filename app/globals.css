@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { height: 100%; background-color: #050B16; color: #E3D2B5; }
+.card { @apply rounded-xl border border-brand.neutral/30 bg-[#0B1222] p-4; }
+.btn { @apply px-3 py-2 rounded-lg border border-brand.neutral/30 hover:border-brand.text transition; }
+.input { @apply bg-[#0B1222] border border-brand.neutral/30 rounded px-2 py-2 text-sm; }
+.label { @apply block text-xs text-brand.neutral; }
